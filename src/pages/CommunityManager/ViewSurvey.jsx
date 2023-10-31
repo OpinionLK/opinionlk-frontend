@@ -612,4 +612,4 @@ export const variants = {
     }
 };
 
-export default ViewSurvey
+export default ViewSurvey;
